@@ -1,0 +1,13 @@
+{
+  "name": "angular-builder",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "angularjs#~1.4.8"
+  }
+}
